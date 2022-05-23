@@ -1,0 +1,4 @@
+- 👋 Hi, my name is Terry CHAN. Born and raised in 🇫🇷, I studied in 🇺🇸, and I'm now back in Paris. 
+- 🌱 I’m learning how to code after completing a bootcamp and now working on personal projects
+- 💞️ I’m looking to land my first job as a web developer
+- 📫 Contact me if you're interested.
